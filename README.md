@@ -14,5 +14,6 @@ I lean a lot of stuff related to data science skills. This bootcamp
 -Essential Statistics for Data Analyst
 -Essential Machine Learning for Data Analyst
 -Python programming
--Essential Statistics for Data Analyst
+-Essential python for Data Analyst
+-Dashbord
 #heading2
